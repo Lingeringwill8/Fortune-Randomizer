@@ -1,0 +1,1 @@
+this is a program to randomly give a message to the user using javascript
